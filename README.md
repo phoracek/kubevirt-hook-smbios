@@ -1,0 +1,1 @@
+# KubeVirt SMBIOS hook sidecar
